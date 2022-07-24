@@ -1,5 +1,5 @@
+/*** Este va a ser mi archivo de prueba ***/
 
-
-*** Este es mi nuevo repositorio ***
+*** Este es mi repositorio de git ***
 
 *** David ***
