@@ -1,5 +1,4 @@
-/*** Este va a ser mi archivo de prueba en la rama A ***/
+/*** Este va a ser mi archivo de la rama List***/
 
 *** Este es mi repositorio de git ***
 
-*** David ***
